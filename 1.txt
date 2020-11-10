@@ -1,2 +1,3 @@
 111111 master
 now add >> host_fix
+我是大哥，我比你更厉害

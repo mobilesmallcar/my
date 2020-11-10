@@ -1,2 +1,6 @@
 111111 master
 now add >> host_fix haiya
+now add >> host_fix
+我是大哥，我比你更厉害
+你厉害个锤子
+别吵了别吵了，我才最帅`
